@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPRG.ATS.BLL\CPRG.ATS.BLL.csproj" />
+    <ProjectReference Include="..\CPRG214.ATS.Domain\CPRG214.ATS.Domain.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

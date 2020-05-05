@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.AssetTracker\\CPRG214.ATS.AssetTracker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\CPRG.ATS.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\CPRG.ATS.BLL.csproj",
+        "projectName": "CPRG.ATS.BLL",
+        "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\CPRG.ATS.BLL.csproj",
+        "packagesPath": "C:\\Users\\JunioTech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JunioTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\CPRG214.ATS.Data.csproj": {
+                "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\CPRG214.ATS.Data.csproj"
+              },
+              "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj": {
+                "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.AssetTracker\\CPRG214.ATS.AssetTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.AssetTracker\\CPRG214.ATS.AssetTracker.csproj",
+        "projectName": "CPRG214.ATS.AssetTracker",
+        "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.AssetTracker\\CPRG214.ATS.AssetTracker.csproj",
+        "packagesPath": "C:\\Users\\JunioTech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.AssetTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JunioTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\CPRG.ATS.BLL.csproj": {
+                "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG.ATS.BLL\\CPRG.ATS.BLL.csproj"
+              },
+              "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj": {
+                "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\CPRG214.ATS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\CPRG214.ATS.Data.csproj",
+        "projectName": "CPRG214.ATS.Data",
+        "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\CPRG214.ATS.Data.csproj",
+        "packagesPath": "C:\\Users\\JunioTech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JunioTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj": {
+                "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj",
+        "projectName": "CPRG214.ATS.Domain",
+        "projectPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\CPRG214.ATS.Domain.csproj",
+        "packagesPath": "C:\\Users\\JunioTech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\WebDev\\webbApp.NET\\Solutions\\CPRG214.AssetTracker_with di.Irada Shamilova\\CPRG214.ATS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JunioTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

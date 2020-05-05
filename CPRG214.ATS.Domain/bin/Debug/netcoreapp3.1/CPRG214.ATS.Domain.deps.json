@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CPRG214.ATS.Domain/1.0.0": {
+        "runtime": {
+          "CPRG214.ATS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPRG214.ATS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

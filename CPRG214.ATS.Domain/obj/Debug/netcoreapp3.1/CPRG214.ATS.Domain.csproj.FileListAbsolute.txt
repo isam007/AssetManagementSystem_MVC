@@ -1,0 +1,43 @@
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.deps.json
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csprojAssemblyReference.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfoInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfo.cs
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.deps.json
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfoInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfo.cs
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS - Test\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.deps.json
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfoInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfo.cs
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.ATS.v2\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csprojAssemblyReference.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.deps.json
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csprojAssemblyReference.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfoInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfo.cs
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.deps.json
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\bin\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfoInputs.cache
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.AssemblyInfo.cs
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.dll
+C:\Users\JunioTech\Documents\Training\SAIT_Webdev\WebDev\webbApp.NET\Solutions\CPRG214.AssetTracker_with di.Irada Shamilova\CPRG214.ATS.Domain\obj\Debug\netcoreapp3.1\CPRG214.ATS.Domain.pdb

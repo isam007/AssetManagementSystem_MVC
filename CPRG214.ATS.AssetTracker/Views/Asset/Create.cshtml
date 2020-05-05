@@ -1,0 +1,54 @@
+﻿@model CPRG214.ATS.Domain.Asset
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>Add New Asset</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="TagNumber" class="control-label"></label>
+                <input asp-for="TagNumber" class="form-control" />
+                <span asp-validation-for="TagNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SerialNumber" class="control-label"></label>
+                <input asp-for="SerialNumber" class="form-control" />
+                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AssetTypeId" class="control-label"></label>
+                <select asp-items="@ViewBag.AssetTypeId" asp-for="AssetTypeId" class="form-control"></select>
+                <span asp-validation-for="AssetTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ManufacturerId" class="control-label"></label>
+                <select asp-items="@ViewBag.ManufacturerId" asp-for="ManufacturerId" class="form-control"></select>
+                <span asp-validation-for="ManufacturerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

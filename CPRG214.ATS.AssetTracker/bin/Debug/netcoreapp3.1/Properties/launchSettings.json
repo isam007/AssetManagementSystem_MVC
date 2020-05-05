@@ -1,0 +1,29 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://localhost:62070",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+        "launchBrowser": true,
+        "launchUrl": "Asset/Index",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "CPRG214.ATS.AssetTracker": {
+        "commandName": "Project",
+        "launchBrowser": true,
+        "launchUrl": "Asset/Index",
+        "applicationUrl": "http://localhost:5000",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+    }
+  }
+}

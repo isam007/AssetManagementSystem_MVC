@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CPRG214.ATS.AssetTracker.Models.AssetViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Assets</h3>
+
+<p>
+    <a asp-controller="Asset" asp-action="Search">Filter Assets by Type</a>
+</p>
+<table class="table jumbotron">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TagNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TagNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Asset", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", "Asset", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", "Asset", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
